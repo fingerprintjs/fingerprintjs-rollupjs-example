@@ -1,0 +1,19 @@
+{
+  "name": "fpjs-rollup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fingerprintjs.com",
+  "license": "MIT",
+  "dependencies": {
+    "@fp-pro/client": "^2.5.2",
+    "rollup": "^1.31.0"
+  },
+  "scripts": {
+    "build": "yarn run rollup --config rollup.config.js"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.0.2",
+    "@rollup/plugin-node-resolve": "^7.1.1",
+    "rollup-plugin-terser": "^5.2.0"
+  }
+}
