@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@fp-pro/client@^2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@fp-pro/client/-/client-2.5.2.tgz#495f52860e99bc0138ffc927058d7fc67978bdaa"
-  integrity sha512-q7BkT3mXk+0sJP8QQkZpSbuQkj+ZanSqeHUv+gzIC5+fbDNAatcM3FqJEInTPGvQTWa4ITOuz9Iq/8b9ViqenA==
+"@fp-pro/client@^2.6.1":
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@fp-pro/client/-/client-2.6.1.tgz#2e25bb63f23adc9af7cf9606f796b35615916026"
+  integrity sha512-7FaSGpUxJzJGecOjdWNkoKKeI6D/Nl9i1PHuuEL4Zer8IDvj700nUKlj2NDN/SGspQ/J3TS67AgwxYcleNHHuw==
 
 "@rollup/plugin-commonjs@^11.0.2":
   version "11.0.2"

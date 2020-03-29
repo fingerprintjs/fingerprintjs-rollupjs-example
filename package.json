@@ -5,7 +5,7 @@
   "author": "fingerprintjs.com",
   "license": "MIT",
   "dependencies": {
-    "@fp-pro/client": "^2.5.2",
+    "@fp-pro/client": "^2.6.1",
     "rollup": "^1.31.0"
   },
   "scripts": {
